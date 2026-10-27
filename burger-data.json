@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/cheesburger.png?raw=true",
+        "title":"cheesburger",
+        "price":10
+
+
+    },
+     {
+        "id":2,
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/dublecheesburger.png?raw=true",
+        "title":"double cheesburger",
+        "price":20
+        
+
+    },
+     {
+        "id":3,
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/freshburger.png?raw=true",
+        "title":"freshburger",
+        "price":15
+        
+
+    },
+     {
+        "id":4,
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/hamburger.png?raw=true",
+        "title":"hamburger",
+        "price":18
+        
+
+    }
+]
