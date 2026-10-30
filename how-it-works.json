@@ -1,7 +1,7 @@
 [
     { 
       "id": 1, 
-      "imgSrc": "breakfast", 
+      "imgSrc": "https://github.com/ketopaichadze-source/burger-data/blob/main/images/breackfast.png?raw=true", 
       "title": "Choose Your Meals", 
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
     },
