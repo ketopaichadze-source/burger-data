@@ -1,0 +1,20 @@
+[
+    { 
+      "id": 1, 
+      "imgSrc": "breakfast", 
+      "title": "Choose Your Meals", 
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."
+    },
+    { 
+      "id": 2, 
+      "imgSrc": "track", 
+      "title": "Track Order", 
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor." 
+    },
+    { 
+      "id": 3, 
+      "imgSrc": "recived", 
+      "title": "Collect Order", 
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor." 
+    },
+  ];
