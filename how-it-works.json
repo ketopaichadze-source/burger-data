@@ -7,7 +7,7 @@
     },
     { 
       "id": 2, 
-      "imgSrc": "track", 
+      "imgSrc": "https://github.com/ketopaichadze-source/burger-data/blob/main/images/track.png?raw=true", 
       "title": "Track Order", 
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor." 
     },
@@ -17,4 +17,4 @@
       "title": "Collect Order", 
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor." 
     },
-  ];
+  ]
