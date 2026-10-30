@@ -33,7 +33,7 @@
     },
       {
         "id":5,
-        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/hamburger.png?raw=true",
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/royalburger.jpeg?raw=true",
         "title":"royalburger",
         "price":25
         
@@ -41,7 +41,7 @@
     },
       {
         "id":6,
-        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/hamburger.png?raw=true",
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/smashburger.jpg?raw=true",
         "title":"smashburger",
         "price":30
         
@@ -49,7 +49,7 @@
     },
       {
         "id":7,
-        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/hamburger.png?raw=true",
+        "imageUrl":"https://github.com/ketopaichadze-source/burger-data/blob/main/images/frenchfries.jpeg?raw=true",
         "title":"frenchfrries",
         "price":7
         
