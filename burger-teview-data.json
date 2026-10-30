@@ -1,0 +1,27 @@
+ [
+  { "id": 1, 
+    "name": "Customer Name", 
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    "rating": 4 
+  },
+  { "id": 2,
+    "name": "Customer Name",
+    "text": "Lorem ipsum dolor sit amet,consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    "rating": 5 
+  },
+  { "id": 3,
+    "name": "Customer Name", 
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    "rating": 4 
+  },
+  { "id": 4,
+    "name": "Customer Name",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.", 
+    "rating": 5 
+  },
+  { "id": 5,
+   "name": "Customer Name",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+    "rating": 4
+   }
+];
